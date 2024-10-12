@@ -1,4 +1,4 @@
- ** BELAJAR GITHUB**
- -------------------
-** LAIN-LAIN**
+BELAJAR GITHUB
+-------------------
+LAIN-LAIN
 --------------------
